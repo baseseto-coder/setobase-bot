@@ -1,0 +1,12 @@
+setouchi-bot/
+
+  bot.py
+  requirements.txt
+
+  photos/
+    sea/
+    town/
+    guesthouse/
+
+  .github/workflows/
+    bot.yml
